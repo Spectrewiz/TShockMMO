@@ -1,0 +1,5 @@
+C:\Users\Nelson\Desktop\TShock MMO\Bin\Debug\TShockMMO\TShockMMO.dll
+C:\Users\Nelson\Desktop\TShock MMO\Bin\Debug\TShockMMO\TShockMMO.pdb
+C:\Users\Nelson\Desktop\TShock MMO\TShockMMO\obj\Debug\TShockMMO.csprojResolveAssemblyReference.cache
+C:\Users\Nelson\Desktop\TShock MMO\TShockMMO\obj\Debug\TShockMMO.dll
+C:\Users\Nelson\Desktop\TShock MMO\TShockMMO\obj\Debug\TShockMMO.pdb
